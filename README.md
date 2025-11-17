@@ -1,5 +1,5 @@
 # Intro
-Hi guys! I want to share the materials and my homework implementations during the "Parallel Programming" course during the final year of bachelor degree.
+Hi guys! I want to share the materials and my homework implementations during the _CSC14120-Parallel Programming_ course during the final year of bachelor degree.
 
 # Slides and sample implementations
 For slides and sample implementations of this course, please refer to the `Slides+CodeDemo` directory.
